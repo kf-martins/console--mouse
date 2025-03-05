@@ -44,7 +44,7 @@ int main() {
     INPUT_RECORD inputRecord;
     DWORD eventsRead;
 
-    Button button1 = {2, 2, 7, 3, "BOTÃO", "\x1b[30;42m", onClcik};
+    Button button1 = {2, 2, 7, 3, "»", "\x1b[30;42m", onClcik};
     Button button2 = {2, 6, 16, 3, "BOTÃO 2", "\x1b[30;42m", onClick2};
     Button button3 = {2, 10, 17, 3, "APERTE", "\x1b[30;42m", onClcik};
     Button button4 = {2, 14, 17, 3, "BOTÃO 3", "\x1b[30;42m", onClcik};
