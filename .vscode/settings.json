@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "console_mouse.h": "c",
+        "windows.h": "c",
+        "stdio.h": "c"
+    }
+}
